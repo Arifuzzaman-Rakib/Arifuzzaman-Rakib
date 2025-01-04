@@ -1,4 +1,4 @@
-![I am Arifuzzaman Rakib](https://github.com/harun181/harun181/blob/main/code.png)
+![I am Arifuzzaman Rakib](https://github.com/Arifuzzaman-Rakib/Arifuzzaman-Rakib/blob/3e53ff3f654ef5397df6bea95127516c6ab0cbe3/Header.gif)
 
 <h1 align="center">Hi 👋, I'm Arifuzzaman Rakib</h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
