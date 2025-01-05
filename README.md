@@ -12,19 +12,19 @@ Skills: HTML5 / CSS3 / JS / Bootstrap/ Angular / REACT / SQL / ASP.NET
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently working on [IIIT](https://www.365Tech.com/)
 
-- 🌱 I’m currently learning Golang, Java, C++
+- 🌱 I’m currently learning PHP, Python
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
+- 👨‍💻 All of my projects are available at [https://github.com/Arifuzzaman-Rakib](https://github.com/Arifuzzaman-Rakib)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+- 📝 I regularly write articles on [https://vcampusbd.com/](https://vcampusbd.com/)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, ASP.NET, Angular, SQL**
 
 - 📫 How to reach me **rakibphar1@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+- 📄 All About Me:[https://arifuzzaman.intels.co/](https://arifuzzaman.intels.co/)
 
 <h3 align="left">Connect with me:</h3>
 
