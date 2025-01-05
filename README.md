@@ -8,7 +8,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: HTML5 / CSS3 / JS / Bootstrap/ Angular / REACT / SQL / ASP.NET
 
 </div>
 
@@ -20,9 +20,9 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, ASP.NET, Angular, SQL**
 
-- 📫 How to reach me **programmerharun@gmail.com**
+- 📫 How to reach me **rakibphar1@gmail.com**
 
 - 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
 
